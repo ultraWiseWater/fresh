@@ -1,0 +1,2 @@
+# fresh
+next.js practice
